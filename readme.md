@@ -3,7 +3,7 @@
 A production-ready Email Spam Detection web application built using **Machine Learning (TF-IDF + Logistic Regression)** and deployed with **Flask**.
 The system classifies email text as **Spam** or **Not Spam** with high accuracy and has been validated against real Gmail inbox data.
 
-[Live Demo]([https://spam-api.onrender.com](https://spam-classifier-web.onrender.com))
+[Live Demo](https://spam-classifier-web.onrender.com)
 ---
 
 ## 🚀 Project Overview
